@@ -1,6 +1,6 @@
 {
-  "name": "lg-steps",
-  "version": "0.0.5",
+  "name": "zt-steps",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
@@ -9,7 +9,7 @@
     "del": "rimraf dist"
   },
   "keywords": [],
-  "author": "教瘦 <54337467@qq.com>",
+  "author": "",
   "license": "MIT",
   "gitHead": "804575cb1b501d16a61726f6c2675363d77d8ffd"
 }
